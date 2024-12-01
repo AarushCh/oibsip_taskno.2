@@ -12,7 +12,11 @@ Serves as the entry point for the application. It integrates the game logic and 
 
 ## Future Enhancements
 Add difficulty levels with varying ranges for numbers.
+
 Implement a timer for each round.
+
 Store high scores in a file or database.
+
 Improve user interface (e.g., using JavaFX).
+
 # Developed By Ch Aarush Udbhav
